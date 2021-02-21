@@ -1,0 +1,16 @@
+{
+    "trainingType": "Stretching & Core",
+    "kcal": "112",
+    "kcalStr": "kcal",
+    "exercisesCount": "12",
+    "exercisesStr": "Excercises",
+    "durationMins": "12",
+    "durationStr": "min",
+    "videoList": [{
+        "url": "https://drive.google.com/file/d/1uXNCWVe0NH3cpvWswpYCerxPbiZkfCoC/view?usp=sharing",
+        "name": "Video"
+    }, {
+        "url": "https://drive.google.com/file/d/1uXNCWVe0NH3cpvWswpYCerxPbiZkfCoC/view?usp=sharing",
+        "name": "Video"
+    }]
+}
